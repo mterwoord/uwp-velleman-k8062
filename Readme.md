@@ -1,0 +1,1 @@
+This library is a way to interface with the Velleman VM116 USB DMX controller. For more information, see http://www.vellemanusa.com/products/view/?country=us&lang=enu&id=522065
